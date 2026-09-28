@@ -1,0 +1,6 @@
+{
+  "name": "Rubirosa NYC | Italian-American Classics & Thin Crust Pizza",
+  "description": "Casual spot in Nolita serving reinvented Italian-American classics and 60-year family recipe thin-crust pizzas, including the standout Tie Dye pizza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
